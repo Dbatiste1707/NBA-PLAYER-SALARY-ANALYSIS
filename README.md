@@ -3,10 +3,10 @@ NBA salary and performance analytics project using Python, Pandas, Matplotlib, a
 NBA Salary vs Performance Analysis
 ## Salary vs Performance
 
-![Salary vs Performance](salary_vs_performance.png)
+![Salary vs Performance](Salary_vs_Performance.png)
 ## Top 10 Value Contracts
 
-![Top 10 Value Contracts](top10_value_contracts.png)
+![Top 10 Value Contracts](Top_10_Contracts.png)
 
 Project Overview
 
