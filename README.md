@@ -1,6 +1,13 @@
 # NBA-PLAYER-SALARY-ANALYSIS
-evaluation of how salary correlates to player performance and which players of over and under performing according to what salary they are getting
+NBA salary and performance analytics project using Python, Pandas, Matplotlib, and the NBA API to identify the league's highest-value player contracts.
 NBA Salary vs Performance Analysis
+## Salary vs Performance
+
+![Salary vs Performance](salary_vs_performance.png)
+## Top 10 Value Contracts
+
+![Top 10 Value Contracts](top10_value_contracts.png)
+
 Project Overview
 
 This project analyzes NBA player salaries and on-court performance during the 2024–25 season to identify which players provide the best value relative to their contracts. Using Python, Pandas, Matplotlib, and the NBA API, I combined salary and performance datasets, created custom evaluation metrics, and visualized player value across the league.
@@ -119,3 +126,26 @@ pip install pandas matplotlib numpy nba_api
 
 Open nba_salary_analysis.ipynb
 Run all cells.
+
+
+## Sample Results
+
+Top 5 Value Contracts:
+
+| Player | Value Score |
+|----------|----------|
+| Paolo Banchero | 3.13 |
+| Victor Wembanyama | 3.05 |
+| Shai Gilgeous-Alexander | 1.23 |
+| Jayson Tatum | 1.19 |
+| Luka Dončić | 1.03 |
+
+Lowest Value Contracts:
+
+| Player | Value Score |
+|----------|----------|
+| Bradley Beal | 0.48 |
+| Jimmy Butler III | 0.58 |
+| Stephen Curry | 0.63 |
+| Jaylen Brown | 0.65 |
+| Kevin Durant | 0.72 |
